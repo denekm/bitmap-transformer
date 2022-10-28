@@ -32,8 +32,6 @@ public class Bitmap {
         }
         changeColor(width, height, inPutImg, outPutImg);
         randomizeImage(width, height, outPutImg);
-
-
     }
 
     public void changeColor(int width, int height, BufferedImage inPutImg, BufferedImage outPutImg) {
